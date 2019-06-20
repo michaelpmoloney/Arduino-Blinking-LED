@@ -1,3 +1,9 @@
+/*
+Student: Michael Moloney
+Class: CSC 4110 Embedded Systems
+Instructor: Michael Weeks
+*/
+
 void setup() {
   // put your setup code here, to run once:
 pinMode(10, OUTPUT);
