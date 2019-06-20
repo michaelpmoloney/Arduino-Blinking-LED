@@ -9,4 +9,6 @@ time of 1 and 2 seconds.
 Required Hardware: <br/>
 1.Arduino Uno <br/>
 2.LED <br/>
-3.220 ohm resistor
+3.220 ohm resistor <br/>
+4.Breadboard <br/>
+5.Hook-up wires
